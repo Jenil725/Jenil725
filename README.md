@@ -1,54 +1,54 @@
-# 👋 Hi, I'm Jenil
+👋 Hi, I'm Jenilkumar Bhayani
 
-🎓 I'm a passionate full stack developer skilled in both backend and frontend technologies.  
+🎓 I'm a passionate full stack developer skilled in both backend and frontend technologies.
 💡 I enjoy building real-world web applications that solve meaningful problems.
 
----
+🔧 Skills & Technologies
 
-## 🔧 Skills & Technologies
+Languages & Backend:
+C, C++, C#
+Java
+PHP
+ASP.NET Core MVC
+Entity Framework
+Stored Procedures
+OOPs (Object-Oriented Programming)
 
-**Languages & Backend:**
-- C, C++, C#
-- Java
-- PHP  
-- ASP.NET Core MVC  
-- Entity Framework  
-- Stored Procedures  
-- OOPs (Object-Oriented Programming)
+Databases:
+Microsoft SQL Server
+MySQL
+phpMyAdmin
+DBMS
+SQL
 
-**Databases:**
-- Microsoft SQL Server  
-- MySQL  
-- phpMyAdmin  
-- DBMS  
-- SQL  
+Tools & Frameworks:
+Repository & Interface Pattern
+GitHub Desktop
+XAMPP
 
-**Tools & Frameworks:**
-- Repository & Interface Pattern  
-- GitHub Desktop  
-- XAMPP  
+Frontend:
+HTML, CSS, JavaScript
+Bootstrap
+Kendo UI
 
-**Frontend:**
-- HTML, CSS, JavaScript  
-- Bootstrap  
-- Kendo UI  
+📌 Featured Projects
 
----
+🎁 Hopefull Hearts
+A donation platform built using PHP where users can donate clothes, books, and money to help those in need.
 
-## 📌 Featured Projects
+🏥 Hospital Management System
+A full-featured hospital management system using ASP.NET Core MVC for managing patients and appointments.
 
-- [🎁 Hopefull Hearts](https://github.com/Jenil725/Hopefull-Hearts)  
-  A donation platform built using PHP where users can donate clothes, books, and money to help those in need.
+📝 To-Do Application
+A task management system where users can add, edit, delete, and view tasks. It also includes features to download pending tasks, and export/import tasks using Excel files for better productivity.
 
-- [🏥 Hospital Management System](https://github.com/Jenil725/Hospital-Management-System)  
-  A full-featured hospital management system using ASP.NET Core MVC for managing patients and appointments.
+🎓 College Management System
+A role-based system with Student, Faculty, and Admin dashboards:
+Student Dashboard: Update profile, reset password, access subjects after purchase. Each subject contains videos that unlock sequentially after completing a quiz.
+Faculty Dashboard: Update/reset profile, manage assigned subjects, conduct exams, and evaluate marks.
+Admin Dashboard: Full control over subjects, users, assignments, exams, and system management.
 
----
+📫 Connect with Me
 
-## 📫 Connect with Me
-
-- 📧 Email: jenilbhayani725@gmail.com 
-- 🔗 LinkedIn: www.linkedin.com/in/jenilbhayani725
-
-
-
+📧 Email: jenilbhayani725@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/jenilbhayani725
