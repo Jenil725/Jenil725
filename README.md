@@ -6,6 +6,7 @@
 🔧 Skills & Technologies
 
 Languages & Backend:
+
 C, C++, C#
 Java
 PHP
@@ -15,6 +16,7 @@ Stored Procedures
 OOPs (Object-Oriented Programming)
 
 Databases:
+
 Microsoft SQL Server
 MySQL
 phpMyAdmin
@@ -22,11 +24,13 @@ DBMS
 SQL
 
 Tools & Frameworks:
+
 Repository & Interface Pattern
 GitHub Desktop
 XAMPP
 
 Frontend:
+
 HTML, CSS, JavaScript
 Bootstrap
 Kendo UI
@@ -44,6 +48,7 @@ A task management system where users can add, edit, delete, and view tasks. It a
 
 🎓 College Management System
 A role-based system with Student, Faculty, and Admin dashboards:
+
 Student Dashboard: Update profile, reset password, access subjects after purchase. Each subject contains videos that unlock sequentially after completing a quiz.
 Faculty Dashboard: Update/reset profile, manage assigned subjects, conduct exams, and evaluate marks.
 Admin Dashboard: Full control over subjects, users, assignments, exams, and system management.
@@ -51,4 +56,5 @@ Admin Dashboard: Full control over subjects, users, assignments, exams, and syst
 📫 Connect with Me
 
 📧 Email: jenilbhayani725@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/jenilbhayani725
+☎️ +91 63558 77834
+🔗 LinkedIn: linkedin.com/in/jenilbhayani725
